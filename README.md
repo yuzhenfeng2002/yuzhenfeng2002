@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a student in SEM, Tongji University.
+
+I am learning IMIS and interested in operations research.
 <!--
 **SL-Feng/SL-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
