@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a student learning IMIS in SEM, Tongji University.
+I'm a student majoring in Information Management and Information System in Department of Management Science and Engineering, Tongji University.
+
+I'm interested in algorithms, optimization and so on.
 
 <!--
 **SL-Feng/SL-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
