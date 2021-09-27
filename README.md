@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a student majoring in Information Management and Information System in Department of Management Science and Engineering, Tongji University.
-
-I'm interested in algorithms, optimization and so on.
+I am an undergraduate student from Dept. of Management Science and Engineering, Tongji University and interested in optimization, data analysis and their applications in transportation and logistics. The address of my profile is [feng-yz.github.io/about/](https://feng-yz.github.io/about/) and you can send emails to fyz020301@outlook.com to contact me.
 
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Feng-Yz&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
