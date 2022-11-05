@@ -2,9 +2,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Feng-Yz/count.svg)
 
-- I am a third-year undergraduate in Dept. of Management Science and Engineering, Tongji University.
-- I am now supervised by Prof. Xiaolei Wang in Tongji University.
-- My current research interest focus on the applications of operations research in transportation engineering.
+- My name is Yuzhen FENG, a senior undergraduate in Dept. of Management Science and Engineering, Tongji University.
+- **I am now seeking PhD positions in Hong Kong, Singapore, USA, Canada, etc.. My current research interest focuses on the applications of operations research tools in transportation and logistics (_but is not limited to this_).**
+- I am now conducting research in the operations of dynamic ridesharing supervised by Prof. Xiaolei Wang in Tongji University.
 - You can click [here](https://sites.google.com/view/yuzhenfeng/about-me) to see my profile.
 - You can send emails to fyz020301@outlook.com to contact me.
 
