@@ -8,7 +8,7 @@
 - You can click [here](https://sites.google.com/view/yuzhenfeng/about-me) [Google Site] to see my profile. 
 - You can send emails to fyz020301@outlook.com to contact me.
 
-![Feng-Yz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feng-Yz&show_icons=true&theme=tokyonight)
+![Feng-Yz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhenfeng2002&show_icons=true&theme=tokyonight)
 
 <!--
 **SL-Feng/SL-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
