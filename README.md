@@ -2,13 +2,12 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Feng-Yz/count.svg)
 
-- My name is Yuzhen FENG, a final year undergraduate in Dept. of Management Science and Engineering, Tongji University.
-- I am now working on the operations of dynamic ridepooling supervised at Tongji University. My current research interest focuses on the applications of operations research in problems arising from transportation and logistics.
-- From 2023 fall, I am going to be a PhD student in Dept. of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University.
-- You can click [here](https://sites.google.com/view/yuzhenfeng/about-me) [Google Site] to see my personal website. 
+- My name is Yuzhen Feng, an incoming PhD student in Dept. of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University.
+- I am now working on the operations of dynamic ridepooling at Tongji University. My current research interest lies in using operations research techniques to improve the Equity, Effectiveness and Efficiency of transportation systems.
+- You can click [here](https://sites.google.com/view/yuzhenfeng) [Google Site] to see my personal website. 
 - Feel free to send emails to fyz020301@outlook.com to chat with me.
 
-![Feng-Yz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhenfeng2002&show_icons=true&theme=tokyonight)
+![Feng-Yz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhenfeng2002)
 
 <!--
 **SL-Feng/SL-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
