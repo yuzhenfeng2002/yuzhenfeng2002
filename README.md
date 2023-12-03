@@ -1,26 +1,7 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Feng-Yz/count.svg)
-
-- My name is Yuzhen Feng, an incoming PhD student in Dept. of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University.
-- I am now working on the operations of dynamic ridepooling at Tongji University. My current research interest lies in using operations research techniques to improve the Equity, Effectiveness and Efficiency of transportation systems.
-- You can click [here](https://sites.google.com/view/yuzhenfeng) [Google Site] to see my personal website. 
-- Feel free to send emails to fyz020301@outlook.com to chat with me.
+- I am currently a Ph.D. student in Transportation at The Hong Kong Polytechnic University. I am interested in (1) elegant mathematical models to describe human behaviors in transport systems; and (2) effective operations research tools to improve the performance of transport systems.
+- Click [here](https://yuzhenfeng2002.github.io/) to see my homepage. 
+- Send emails to fyz020301@outlook.com to contact me.
 
 ![Feng-Yz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhenfeng2002)
-
-<!--
-**SL-Feng/SL-Feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
