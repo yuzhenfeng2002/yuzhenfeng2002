@@ -12,7 +12,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Gurobi](https://img.shields.io/badge/Gurobi-CC0000?logoColor=white)
-![Math Modeling](https://img.shields.io/badge/Math%20Modeling-673AB7?logo=graph&logoColor=white)
+
+![Math Modeling](https://img.shields.io/badge/Modeling-673AB7?logo=graph&logoColor=white)
 ![Optimization](https://img.shields.io/badge/Optimization-4CAF50?logo=mathworks&logoColor=white)
 ![Simulation](https://img.shields.io/badge/Simulation-FF9800?logo=simulink&logoColor=white)
 
