@@ -18,7 +18,7 @@
 ![Gurobi](https://img.shields.io/badge/Gurobi-CC0000?style=for-the-badge)
 
 <!-- Core Skills -->
-![Mathematical Modeling](https://img.shields.io/badge/Mathematical%20Modeling-673AB7?style=for-the-badge)
+![Operations Research](https://img.shields.io/badge/Operations%20Research-673AB7?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-4CAF50?style=for-the-badge)
 ![Simulation](https://img.shields.io/badge/Simulation-FF9800?style=for-the-badge)
 
